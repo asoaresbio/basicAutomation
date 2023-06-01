@@ -10,5 +10,6 @@ npm install -D cypress-xpath
 
 # Como rodar
 headless: npx cypress run
-interativo (UI): npx cypress  open
+
+interativo (UI chomre/firefox): npx cypress  open
 
