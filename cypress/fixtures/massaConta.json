@@ -1,0 +1,19 @@
+{
+  "campoNomeCompleto": ":nth-child(1) > .cav--c-lesPJm-iiwHTTl-css > .cav--c-lesPJm-igMJTZU-css > .cav--c-gkGAKm > :nth-child(1) > .cav--c-lesPJm > .cav--c-iopFEX",
+  "nome": "Teste Automaçao",
+  "nomeAlteracao": "Alteraçao Teste Automaçao",
+
+  "campoCelular": ":nth-child(1) > .cav--c-lesPJm-iiwHTTl-css > .cav--c-lesPJm-igMJTZU-css > .cav--c-gkGAKm > :nth-child(7) > .cav--c-lesPJm > .cav--c-iopFEX",
+
+  "campoCep": ":nth-child(2) > .cav--c-lesPJm-iiwHTTl-css > .cav--c-lesPJm-igMJTZU-css > .cav--c-gkGAKm > :nth-child(1) > .cav--c-lesPJm > .cav--c-iopFEX",
+  "validaCep": ".cav--c-lesPJm > .cav--c-iOefvc",
+
+  "numero": "717",
+  "numeroAlteracao": "700",
+
+  "botaoSalvaAlteracoes": ".cav--c-gkGAKm-iibnVWq-css > .cav--c-eNhzRw > .cav--c-iOefvc",
+
+  "apelidoEndereco": "Endereço teste automação",
+  "apelidoEnderecoEdicao": "Teste edição automação"
+
+}
